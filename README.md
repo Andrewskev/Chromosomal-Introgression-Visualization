@@ -1,5 +1,5 @@
 # Chromosomal-Introgression-Visualization
-This repository contains the R code file that goes along with a YouTube tutorial video demonstrating how to create rough chromosomal introgression plots in R. 
+This repository contains the R code file to create rough chromosomal introgression plots in R. This code file was created to accompany a YouTube tutorial video showing the process of producing these introgression plots.
 
 The input files required for this process should be in ABH format, which can be obtained from VCF files using TASSEL 5 (also demonstrated in the YouTube video. Check it out!).
 
