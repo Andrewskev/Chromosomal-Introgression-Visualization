@@ -12,4 +12,4 @@ TASSEL 5, developed by the Buckler Lab at Cornell University, can be downloaded 
 
 The R package karyoploteR is a part of Bioconductor. Installation of both is required and can be done following the instructions at the webpage for karyoploteR at: https://bernatgel.github.io/karyoploter_tutorial/
 
-The version of R  used was:
+The version of R  used was: R Version 4.5.2
