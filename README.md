@@ -4,6 +4,9 @@ This repository contains the R code file to create rough chromosomal introgressi
 
 <img width="480" height="480" alt="GA_235533_6" src="https://github.com/user-attachments/assets/39d9a259-268b-4e34-90a4-b6d06c104dd8" />
 
+
+
+
 The input files required for this process should be in ABH format, which can be obtained from VCF files using TASSEL 5 (also demonstrated in the YouTube video. Check it out!).
 
 
